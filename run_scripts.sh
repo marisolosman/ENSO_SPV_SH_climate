@@ -1,0 +1,7 @@
+#python composites_VAR_ninio_PV_SOND_FM.py T2m
+#python composites_VAR_ninio_PV_SOND_FM.py Precip
+#python composites_VAR_ninio_PV_SOND_FM.py SIF
+python composites_VAR_ninio_PV_regional_SOND_FM.py T2m
+python composites_VAR_ninio_PV_regional_SOND_FM.py Precip
+python composites_VAR_ninio_PV_regional_SOND_FM.py SIF
+
